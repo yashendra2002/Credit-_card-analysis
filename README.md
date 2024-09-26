@@ -8,7 +8,6 @@ Some trends like :- Revenue increasedby 28.8%(WOW Change).
                  :- Activation rate is 57.5% .
                  :- Male customers are contributing to 93% of overall transactions.
                  :- Texas , Newyork, California is contributing rate is 57.5% .
-                  
                 
                   
  
